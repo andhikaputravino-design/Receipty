@@ -1,0 +1,22 @@
+{
+  "name": "Premium Photobooth Vnotebooth",
+  "short_name": "Vnotebooth",
+  "description": "Premium Photobooth Web Application",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b0b0d",
+  "theme_color": "#d4af37",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
